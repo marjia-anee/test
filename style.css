@@ -10,7 +10,7 @@ body{
 	margin:0 auto;
 */
 header{
-	background-color: blue;
+	background-color: #73738b;
 	color: white;
 	text-align: center;
 }
@@ -19,6 +19,10 @@ ul{
 	padding-left: 20px;
 	font-size: 16;
 
+}
+
+ul li{
+	display: inline-block;
 }
 
 h2{
