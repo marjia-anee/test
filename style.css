@@ -1,0 +1,46 @@
+
+/*My code*/
+body{
+	background-color: #EEE;
+
+}
+/*#container{
+	background-color: white;
+	width: 800px;
+	margin:0 auto;
+*/
+header{
+	background-color: blue;
+	color: white;
+	text-align: center;
+}
+ul{
+	color: red;
+	padding-left: 20px;
+	font-size: 16;
+
+}
+
+h2{
+	color: red;
+
+}
+p{
+	color: black;
+
+}
+
+div h2 {
+	color: green;
+}
+.video-box{
+	widows: 100%;
+	background-color: #222;
+}
+
+
+.vedio-box{
+	width: 100%;
+
+	background-color: #222;
+}
